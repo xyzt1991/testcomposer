@@ -1,8 +1,12 @@
 {
-	"name" : "xyzt/testcomposer",
-	"authors" : [{
-			"name" : "test",
-			"email" : "test@test.com"
-		}
-	]
+    "name": "xyzt/testcomposer",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@test.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
 }

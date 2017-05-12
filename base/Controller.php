@@ -1,10 +1,10 @@
 <?php
-namespace xyzt\base;
+namespace testcomposer\xyzt\base;
 
 class Controller{
 	
 	public function hello_world(){
-		echo 'hello world!';
+		echo 'hello world haha!';
 	}
 	
 }
