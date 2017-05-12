@@ -1,0 +1,8 @@
+{
+	"name" : "xyzt/testcomposer",
+	"authors" : [{
+			"name" : "test",
+			"email" : "test@test.com"
+		}
+	]
+}
