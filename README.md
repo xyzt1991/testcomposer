@@ -1,0 +1,2 @@
+# testcomposer
+php composer test
